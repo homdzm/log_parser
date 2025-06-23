@@ -1,0 +1,48 @@
+{
+    "top_ips": [
+        [
+            "193.106.31.130",
+            235209
+        ],
+        [
+            "198.50.156.189",
+            167812
+        ],
+        [
+            "5.112.235.245",
+            166722
+        ]
+    ],
+    "top_longest": [
+        {
+            "ip": "83.167.113.100",
+            "date": "13/Dec/2015:02:30:28 +0100",
+            "method": "GET",
+            "url": "/administrator/",
+            "duration": 500
+        },
+        {
+            "ip": "109.197.194.109",
+            "date": "13/Dec/2015:02:33:01 +0100",
+            "method": "GET",
+            "url": "/administrator/",
+            "duration": 500
+        },
+        {
+            "ip": "176.49.68.156",
+            "date": "14/Dec/2015:02:32:35 +0100",
+            "method": "GET",
+            "url": "/administrator/",
+            "duration": 500
+        }
+    ],
+    "total_stat": {
+        "GET": 2247830,
+        "POST": 918794,
+        "HEAD": 49971,
+        "PUT": 70,
+        "OPTIONS": 39,
+        "DELETE": 1
+    },
+    "total_requests": 3216705
+}
